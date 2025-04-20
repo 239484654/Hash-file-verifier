@@ -1,0 +1,1 @@
+pyinstaller -F -w hash-file-verifier.py
